@@ -1,0 +1,6 @@
+
+Adição com resultado:3.000000
+Subtração com resultado:2.000000
+Multiplicação com resultado:10.000000
+Divisão com resultado:1.600000
+Soma continua com resultado:20.000000
